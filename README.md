@@ -1,4 +1,4 @@
-# data architecture:)
+# data architecture :-)
 - [Project summary](#da-design-server)
   - [Purpose](#purpose)
   - [Requirements](#requirements)
